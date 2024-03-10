@@ -1,5 +1,6 @@
-# Assignment-2-
-Assignment 2 (DL 10.03)
+# Assignment-2
+Distributed Systems Assignment 2 
+Nouman Noor
 
 
 ## Overview
