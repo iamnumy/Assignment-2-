@@ -1,5 +1,5 @@
 # Assignment-2
-Distributed Systems Assignment 2 
+Distributed Systems Assignment 2 by
 Nouman Noor
 
 
@@ -25,4 +25,4 @@ This project implements a distributed client-server system using XML-RPC in Pyth
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/iamnumy/Distributed-Systems-Assignment-2.git
